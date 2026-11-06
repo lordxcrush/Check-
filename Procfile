@@ -1,1 +1,1 @@
-worker: python real1.py
+worker: python prmt.py
